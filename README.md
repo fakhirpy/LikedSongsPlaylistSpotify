@@ -2,3 +2,5 @@
 
 O script realiza uma varredura nas musicas curtidas pelo usuario, cria uma playlist propria e envia todas as musicas curtidas do usuario para a playlist. 
 Assim facilitando o compartilhamento de musicas curtidas para alguem :)
+
+# Não se esqueça do pip install spotipy , hein
